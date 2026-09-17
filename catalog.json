@@ -2,49 +2,49 @@
   "catalog_version": 3,
   "stt_models": {
     "en": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/vosk-models-v1/model-en.zip",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/vosk-models-v1/model-en.zip",
       "bytes": 41183109,
       "sha256": "4f0e249663ac3fa51d1560ce548ec487afc8db60423fcbd2eeecf31b9473d561",
       "dir": "model-en"
     },
     "ko": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/vosk-models-v1/model-ko.zip",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/vosk-models-v1/model-ko.zip",
       "bytes": 86755844,
       "sha256": "aaaa6f885d266dc0c74d08f269e12f718bc651b873d0da24249e917e6b5c081e",
       "dir": "model-ko"
     },
     "ja": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/vosk-models-v1/model-ja.zip",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/vosk-models-v1/model-ja.zip",
       "bytes": 50364557,
       "sha256": "17e33169833d6db1b4f24d58f4d81c7e26de197da4f17c28ca2ba2df3bef28b4",
       "dir": "model-ja"
     },
     "de": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/vosk-models-v1/model-de.zip",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/vosk-models-v1/model-de.zip",
       "bytes": 46923357,
       "sha256": "18588c90f2f06afec39e4f6bee648af173507ca3b8263746659c80ca0d9ef9b6",
       "dir": "model-de"
     },
     "es": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/vosk-models-v1/model-es.zip",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/vosk-models-v1/model-es.zip",
       "bytes": 40108337,
       "sha256": "d2018474e761ae58857ebe21fcf3459e7fda82cd3ac8831588857284de3bf237",
       "dir": "model-es"
     },
     "fr": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/vosk-models-v1/model-fr.zip",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/vosk-models-v1/model-fr.zip",
       "bytes": 42832488,
       "sha256": "254f5eedd7a86fe47eec5a64c7af8ed94c609d279bc2db59b4aa7015f84f0fdc",
       "dir": "model-fr"
     },
     "ru": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/vosk-models-v1/model-ru.zip",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/vosk-models-v1/model-ru.zip",
       "bytes": 46797632,
       "sha256": "644ff3fbfd37dedceffe0193c0811d5d35d524ed1f507de38afa4e0a690403c4",
       "dir": "model-ru"
     },
     "zh": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/vosk-models-v1/model-zh.zip",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/vosk-models-v1/model-zh.zip",
       "bytes": 44268336,
       "sha256": "3dab9af381df19bd9c35c1c74cde21421a26fb6b76bc3f893a1728f9bd3f1698",
       "dir": "model-zh"
@@ -52,41 +52,41 @@
   },
   "prediction_db": {
     "ja": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/prediction-db-v1/hanal_jpn_dic.db",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_jpn_dic.db",
       "bytes": 21737472,
       "sha256": "9c907a0be3632acc47be8ef55a337199f66022dc0a10c85a6b9a188099624b4f",
       "target": "hanal_jpn_dic.db"
     },
     "zh": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/prediction-db-v1/hanal_chn_hanzi_aes.db",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_chn_hanzi_aes.db",
       "bytes": 8106016,
       "sha256": "3874a0f6e5d052ba1b9727282f2186d545961c0e6234daa2f68ab4bfd00c7ac7",
       "target": "hanal_chn_hanzi_aes.db",
       "file": "hanal_chn_hanzi_aes.db"
     },
     "fr": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/prediction-db-v1/hanal_fra_digital_braille_aes.db",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_fra_digital_braille_aes.db",
       "bytes": 33218592,
       "sha256": "4f24c17830c77731a5957251f8092d85ef0696a78aa78d6b807765a79625c93b",
       "target": "hanal_fra_digital_braille_aes.db",
       "file": "hanal_fra_digital_braille_aes.db"
     },
     "es": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/prediction-db-v1/hanal_spa_digital_braille_aes.db",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_spa_digital_braille_aes.db",
       "bytes": 31490080,
       "sha256": "01f31c2b172af5149bc4ae8e09f15c84195613c66fff79ca28879cbb8cfd75f9",
       "target": "hanal_spa_digital_braille_aes.db",
       "file": "hanal_spa_digital_braille_aes.db"
     },
     "de": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/prediction-db-v1/hanal_deu_digital_braille_aes.db",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_deu_digital_braille_aes.db",
       "bytes": 90701856,
       "sha256": "b0b3c2fee0fd811bec4e1db02e58420d0800c68a21b3ef185ca15fd84a578928",
       "target": "hanal_deu_digital_braille_aes.db",
       "file": "hanal_deu_digital_braille_aes.db"
     },
     "ru": {
-      "url": "https://github.com/tp-remoteone/tacit9-assets/releases/download/prediction-db-v1/hanal_rus_digital_braille_aes.db",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_rus_digital_braille_aes.db",
       "bytes": 68857888,
       "sha256": "f1761471a2df4da8daa96f0eda2cf18e2322d62e84ae6d5d9e959a038b0d3494",
       "target": "hanal_rus_digital_braille_aes.db",

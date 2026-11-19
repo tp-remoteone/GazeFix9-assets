@@ -92,6 +92,13 @@
       "target": "hanal_rus_digital_braille_aes.db",
       "file": "hanal_rus_digital_braille_aes.db"
     },
+    "en_aeiouns": {
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_eng_dic_digital_braille_aes.db",
+      "bytes": 14086176,
+      "sha256": "d106a1bb3b634e3421942c9c47eebfc76f945698afe160faad5f818e26009db2",
+      "target": "hanal_eng_dic_digital_braille_aes.db",
+      "file": "hanal_eng_dic_digital_braille_aes.db"
+    },
     "_kdf_gen": 2,
     "_enc": "aes-cbc-v1"
   }

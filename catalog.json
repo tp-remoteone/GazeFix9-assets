@@ -65,23 +65,23 @@
       "file": "hanal_chn_hanzi_aes.db"
     },
     "fr": {
-      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v1/hanal_fra_digital_braille_aes.db",
-      "bytes": 38350880,
-      "sha256": "6f1d47cc1790066e9516c3577f997bf76625d5b50e2b40e327f29f0b563b20a5",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v2/hanal_fra_digital_braille_aes.db",
+      "bytes": 37945376,
+      "sha256": "bfd5ae699bfaa30e1b0ece92e0c6af5a9aa90c1aa0073f6b643a2387d6196904",
       "target": "hanal_fra_digital_braille_aes.db",
       "file": "hanal_fra_digital_braille_aes.db"
     },
     "es": {
-      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v1/hanal_spa_digital_braille_aes.db",
-      "bytes": 36532256,
-      "sha256": "4c104255dfa522ff05cc3e43389a0fcba64912206de0e4f8399a1bda91e59d02",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v2/hanal_spa_digital_braille_aes.db",
+      "bytes": 36278304,
+      "sha256": "88289465d92cb0935eb5524b04d1b33b11f5512deb85223b6d1a7997ce219169",
       "target": "hanal_spa_digital_braille_aes.db",
       "file": "hanal_spa_digital_braille_aes.db"
     },
     "de": {
-      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v1/hanal_deu_digital_braille_aes.db",
-      "bytes": 96313376,
-      "sha256": "12c6d8f04abb56f02704bf240e56055918827239a99946d257f96457c583601f",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v2/hanal_deu_digital_braille_aes.db",
+      "bytes": 96354336,
+      "sha256": "879851aa3d9b1bc3bcbeca1203b84fd9f4b37c859d065959a47199482005d370",
       "target": "hanal_deu_digital_braille_aes.db",
       "file": "hanal_deu_digital_braille_aes.db"
     },

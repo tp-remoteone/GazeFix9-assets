@@ -1,5 +1,5 @@
 {
-  "catalog_version": 3,
+  "catalog_version": 4,
   "stt_models": {
     "en": {
       "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/vosk-models-v1/model-en.zip",
@@ -65,23 +65,23 @@
       "file": "hanal_chn_hanzi_aes.db"
     },
     "fr": {
-      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_fra_digital_braille_aes.db",
-      "bytes": 33218592,
-      "sha256": "4f24c17830c77731a5957251f8092d85ef0696a78aa78d6b807765a79625c93b",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v1/hanal_fra_digital_braille_aes.db",
+      "bytes": 38350880,
+      "sha256": "6f1d47cc1790066e9516c3577f997bf76625d5b50e2b40e327f29f0b563b20a5",
       "target": "hanal_fra_digital_braille_aes.db",
       "file": "hanal_fra_digital_braille_aes.db"
     },
     "es": {
-      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_spa_digital_braille_aes.db",
-      "bytes": 31490080,
-      "sha256": "01f31c2b172af5149bc4ae8e09f15c84195613c66fff79ca28879cbb8cfd75f9",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v1/hanal_spa_digital_braille_aes.db",
+      "bytes": 36532256,
+      "sha256": "4c104255dfa522ff05cc3e43389a0fcba64912206de0e4f8399a1bda91e59d02",
       "target": "hanal_spa_digital_braille_aes.db",
       "file": "hanal_spa_digital_braille_aes.db"
     },
     "de": {
-      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_deu_digital_braille_aes.db",
-      "bytes": 90701856,
-      "sha256": "b0b3c2fee0fd811bec4e1db02e58420d0800c68a21b3ef185ca15fd84a578928",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v1/hanal_deu_digital_braille_aes.db",
+      "bytes": 96313376,
+      "sha256": "12c6d8f04abb56f02704bf240e56055918827239a99946d257f96457c583601f",
       "target": "hanal_deu_digital_braille_aes.db",
       "file": "hanal_deu_digital_braille_aes.db"
     },

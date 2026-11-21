@@ -100,9 +100,9 @@
       "file": "hanal_ita_digital_braille_aes.db"
     },
     "ru": {
-      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-v1/hanal_rus_digital_braille_aes.db",
-      "bytes": 68857888,
-      "sha256": "f1761471a2df4da8daa96f0eda2cf18e2322d62e84ae6d5d9e959a038b0d3494",
+      "url": "https://github.com/tp-remoteone/GazeFix9-assets/releases/download/prediction-db-glide-v3/hanal_rus_digital_braille_aes.db",
+      "bytes": 33554464,
+      "sha256": "54ecb3faba074d5478cdc58de8946a955ae5ea61b0c10ab73cbb275ed81ae879",
       "target": "hanal_rus_digital_braille_aes.db",
       "file": "hanal_rus_digital_braille_aes.db"
     },
